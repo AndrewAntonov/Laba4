@@ -1,0 +1,11 @@
+﻿  main2.cpp
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(324): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(325): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(338): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(339): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(334): warning C4101: x: неиспользованная локальная переменная
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(371): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(372): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(367): warning C4101: x: неиспользованная локальная переменная
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(218): error C4700: использована неинициализированная локальная переменная "s"
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication3\main2.cpp(232): error C4700: использована неинициализированная локальная переменная "x"

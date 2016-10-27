@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication4\source.cpp(123): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\80291\documents\visual studio 2015\projects\оаип первый курс с++\consoleapplication4\source.cpp(211): warning C4101: q: неиспользованная локальная переменная
+  ConsoleApplication4.vcxproj -> C:\Users\80291\Documents\Visual Studio 2015\Projects\ОАиП Первый курс С++\Debug\Лабораторная работа №4.exe
+  ConsoleApplication4.vcxproj -> C:\Users\80291\Documents\Visual Studio 2015\Projects\ОАиП Первый курс С++\Debug\Лабораторная работа №4.pdb (Full PDB)
